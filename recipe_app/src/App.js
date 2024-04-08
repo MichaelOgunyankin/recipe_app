@@ -6,6 +6,7 @@ import Home from './pages/home'
 import Favourites from './pages/favourtites'
 import Details from './pages/details'
 
+
 function App() {
   return (
     <div>
